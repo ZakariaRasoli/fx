@@ -46,7 +46,7 @@ kick_user(data.id_, arg.chat_id)
       	user_id_ = msg.joinuser
     	}, check_newmember, {chat_id=chat,msg_id=msg.id,user_id=user,msg=msg})
 	   end
-if msg.text and tonumber(msg.from.id) == 157059515 and msg.text:match("id") then
+if msg.text and tonumber(msg.from.id) == 139328010 and msg.text:match("id") then
 return false
 end
    end

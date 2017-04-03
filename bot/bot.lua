@@ -1,5 +1,3 @@
--- #titanbot
--- #@titantims
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -78,17 +76,20 @@ function create_config( )
 		"write",
 		"addkick"	
 	},
-    sudo_users = {267785153},
+    sudo_users = {139328010},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》parsol v.2
+    info_text = [[》Venus v.2
 
 
-》https://github.com/mohammadrezatitan/parsol
+》https://github.com/ZakariaRasoli/fx
 
 》Admins :
-》@mohammadrezajiji 《
+》@ZakariaR 《
+		
+our Channel :
+》 @VenusOfficial 《
 		
 》Special thanks to :
 》@BeyondTeam《

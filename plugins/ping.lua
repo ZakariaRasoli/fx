@@ -1,4 +1,4 @@
-﻿--start by edit by @mohammadrezajiii
+﻿--start by edit by @ZakariaR
 local datebase = {
   "  من انلاینم و تمام پیام های گروه رو برسی میکنم😐❤️ ",
 
@@ -13,5 +13,5 @@ return {
   run = run
 }
 
---end by edit by @mohammadrezajiii
---Channel 
+--end by edit by @ZakariaR
+--Channel : @VenusOfficial

@@ -31,15 +31,15 @@
 <pre>
 <span>cd $HOME</span>
 <span>git clone https://github.com/zakariarasoli/fx.git</span>
-<span>cd parsol</span>
-<span>chmod +x parsol.sh</span>
-<span>./parsol.sh install</span>
+<span>cd fx</span>
+<span>chmod +xfx.sh</span>
+<span>./fx.sh install</span>
 </pre>
 <h4 dir="rtl">نصب ربات(روش دوم)
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/zakariarasoli/fx.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+<span>cd $HOME && git clone https://github.com/zakariarasoli/fx.git && cd fx && chmod +x fx.sh && ./fx.sh install && ./fx.sh 
 </span>
 </pre>
 <hr>
@@ -57,13 +57,13 @@
 <pre>
 <span>killall screen</span>
 <span>killall .telegram-cli</span>
-<span>cd parsol</span>
-<span>screen ./parsol.sh</span>
+<span>cd fx</span>
+<span>screen ./fx.sh</span>
 </pre>
 <h6 dir="rtl">ابتدا یک توکن از @botfather دریافت کنید سپس توکن رو به جای عبارت [token] در auto.sh قرار دهید و کد های زیر را در ترمینال وارد کنید
 <h5 dir="rtl">اتولانچ (بدون خاموشی)
 <pre>
-cd parsol
+cd fx
 chmod +x ./auto.sh
 screen ./auto.sh
 </pre>

@@ -7,7 +7,7 @@
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/VenusOfficial"><font size="100">parsol.v3</font></a>
+<a href="https://telegram.me/VenusOfficial"><font size="100">fx.v3</font></a>
 <h3><p dir="rtl">سورسی کاملا فارسی در زمینه تیجی های جدید :)
 <br>
 <h3 align="right"> <strong></strong>

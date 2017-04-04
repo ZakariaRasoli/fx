@@ -80,7 +80,7 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》Venus v.2
+    info_text = [[》fx v.2
 
 
 》https://github.com/ZakariaRasoli/fx
@@ -479,3 +479,4 @@ function tdcli_update_callback (data)
 	end
 end
 
+--By @ZakariaR

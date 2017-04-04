@@ -1093,12 +1093,12 @@ matches[3] then
 		local send_file = 
 "./"..matches[2].."/"..matches[3]
 		tdcli.sendDocument(msg.chat_id_, msg.id_,0, 
-1, nil, send_file, '@titantims', dl_cb, nil)
+1, nil, send_file, '@VenusOfficial', dl_cb, nil)
 	end
 	if matches[1]:lower() == "sendplug" and matches[2] then
 	    local plug = "./plugins/"..matches[2]..".lua"
 		tdcli.sendDocument(msg.chat_id_, msg.id_,0, 
-1, nil, plug, '@titantims', dl_cb, nil)
+1, nil, plug, '@VenusOfficial', dl_cb, nil)
     end
   end
 
@@ -1276,8 +1276,8 @@ text = [[
 
 *___________________________*
 
-➰_Powered by_ :@mohammadrezajiji
-*Channel®* : @titantim
+➰_Powered by_ :@ZakariaR
+*Channel®* : @VenusOfficial
 ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 end
@@ -1331,4 +1331,4 @@ patterns = {
 }, 
 run = run, pre_process = pre_process
 }
--- #End By @titantims
+-- #End By @VenusOfficial

@@ -1,4 +1,4 @@
---Start By 
+--Start By @ZakariaR
 local function run(msg, matches)
   if msg.content_.text_ == 'عکس من' then
     function get_pic(arg, data)

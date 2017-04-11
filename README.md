@@ -31,7 +31,7 @@
 <span>cd $HOME</span>
 <span>git clone https://github.com/zakariarasoli/fx.git</span>
 <span>cd fx</span>
-<span>chmod +xfx.sh</span>
+<span>chmod +x fx.sh</span>
 <span>./fx.sh install</span>
 </pre>
 <h4 dir="rtl">نصب ربات(روش دوم)
